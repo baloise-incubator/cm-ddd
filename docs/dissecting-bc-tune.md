@@ -41,3 +41,9 @@ You need the context of the word.
 **A bounded context's purpose is to fulfil a role in an organisation's business model.**
 
 If you don't understand the business model, you can't design the optimal bounded contexts.
+
+![core](img/core_domain.png)
+
+### Monolith to Microservice
+
+![core](img/monolith_microservice.png)
